@@ -26,7 +26,7 @@ The training took between 540 and 620 episodes, to reach a mean score of over 13
 ![Training Progress](scores.png)
 
 ## Future Improvements
-
+ 
 There are several possibilities to improve the performance of the agent:
 
 * [DDQN](https://arxiv.org/abs/1509.06461)
